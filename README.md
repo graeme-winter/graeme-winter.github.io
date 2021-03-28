@@ -1,2 +1,3 @@
-# graeme-winter.github.io
-Blog
+### Blog
+Nonsense that I've recently been doing, some of which _could_ be useful to others...
+
