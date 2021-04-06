@@ -6,5 +6,6 @@ Nonsense that I've recently been doing, some of which _could_ be useful to other
 
 ## Play
 [2021 03 18 Plotting Numbers](./2021-03-18-Numbers)
+
 [2021 04 06 Scrolling Text](./2021-04-06-Scoller)
 
