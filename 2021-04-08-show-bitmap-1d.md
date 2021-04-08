@@ -75,4 +75,9 @@ mp_obj_t picoscroll_show_bitmap_1d(mp_obj_t bitmap_obj, mp_obj_t brightness_obj,
 
 Unlike some methods of extending languages, most of the code here is actually doing the things I want to do, which shows some good and quite compact design. Unpacking the input objects, trying to get the `bytearray` buffer and verifying that the input is sane is the top half, then selecting the view of the buffer to display - if this is empty, do nothing, else show the bits that you can see (literally) using bit shift operators.
 
-This is a plug in replacement for the simple Python API as demonstrated by [this gist](https://gist.github.com/graeme-winter/ff08123ceae76399791413f2564eecaa) with the output like [this](https://youtu.be/XIvKc523NwM). 
+This is a plug in replacement for the simple Python API as
+demonstrated by
+[this gist](https://gist.github.com/graeme-winter/ff08123ceae76399791413f2564eecaa)
+with the output like [this](https://youtu.be/XIvKc523NwM). Additional:
+you can get the
+[firmware for this here](https://github.com/graeme-winter/rpi-pico/raw/main/firmware/picoscroll-micropython-plus-2021-04-08.uf2). 
