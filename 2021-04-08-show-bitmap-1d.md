@@ -29,7 +29,7 @@ which explains to the compiler that this is a function with 3 arguments. You the
 
 as micropython has some aggressive methods to save memory (rather reasonably). The actual code added is pretty simple:
 
-```C++
+```C
 mp_obj_t picoscroll_show_bitmap_1d(mp_obj_t bitmap_obj, mp_obj_t brightness_obj, mp_obj_t offset_obj) {
     if(scroll != nullptr) {
         mp_buffer_info_t bufinfo;
@@ -70,7 +70,7 @@ mp_obj_t picoscroll_show_bitmap_1d(mp_obj_t bitmap_obj, mp_obj_t brightness_obj,
     }
 
     return mp_const_none;
-	}
+}
 ```
 
 Unlike some methods of extending languages, most of the code here is actually doing the things I want to do, which shows some good and quite compact design. Unpacking the input objects, trying to get the `bytearray` buffer and verifying that the input is sane is the top half, then selecting the view of the buffer to display - if this is empty, do nothing, else show the bits that you can see (literally) using bit shift operators.
