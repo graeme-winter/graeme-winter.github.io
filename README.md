@@ -11,3 +11,4 @@ Nonsense that I've recently been doing, some of which _could_ be useful to other
 
 [2021 04 08 Scrolling Text Redux (extend C API)](2021-04-08-show-bitmap-1d)
 
+[2021 04 19 Sidewinder](./2021-04-19-Sidewinder)
