@@ -1,3 +1,9 @@
+# Tutorial Links
+
+## 2021 Summer
+
+[DIALS tutorial for APS](./dials-tutorials/se-thaumatin/processing_in_detail.md)
+
 # Blog
 Nonsense that I've recently been doing, some of which _could_ be useful to others...
 
