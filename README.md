@@ -20,3 +20,4 @@ Nonsense that I've recently been doing, some of which _could_ be useful to other
 ## 2023
 
 [2023 01 01 IRQ timing 1/N](./2023/01/2023-01-01.md)
+[2023 01 02 IRQ timing 2/N](./2023/01/2023-01-02.md)
