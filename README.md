@@ -17,12 +17,6 @@ Nonsense that I've recently been doing, some of which _could_ be useful to other
 
 [2022 09 04 Real time / DMA etc.](./2022-09-04-RT)
 
-## 2023
+## 2023 - rp2040
 
-[2023 01 01 IRQ timing 1/2](./2023/01/2023-01-01.md)
-
-[2023 01 02 IRQ timing 2/2](./2023/01/2023-01-02.md)
-
-[2023 01 03 Real-time in µPython day 1](./2023/01/2023-01-03.md)
-
-[2023 01 04 Real-time in µPython day 2](./2023/01/2023-01-04.md)
+[In here](./rp2040.md)
