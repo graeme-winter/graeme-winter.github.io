@@ -24,3 +24,7 @@ Nonsense that I've recently been doing, some of which _could_ be useful to other
 ## 2023 - zynq7000
 
 [In here](./zynq7000.md)
+
+## 2023 - SAMD51
+
+[In here](./samd51.md)
