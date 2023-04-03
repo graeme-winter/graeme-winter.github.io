@@ -7,3 +7,5 @@ Working in µPython (including my own port 🤓)
 [Leaning on the Assembly for Mandelbrot sets](./2023/04/2023-04-01.md)
 
 [Thumb2 imm12 compiler](./2023/04/2023-04-01-a.md)
+
+[Assembly toggling GPIO](./2023/04/2023-04-03.md)
