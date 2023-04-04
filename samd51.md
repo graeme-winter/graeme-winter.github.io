@@ -9,3 +9,6 @@ Working in µPython (including my own port 🤓)
 [Thumb2 imm12 compiler](./2023/04/2023-04-01-a.md)
 
 [Assembly toggling GPIO](./2023/04/2023-04-03.md)
+
+[Assembly RNG to disk](./2023/04/2023-04-04.md)
+
