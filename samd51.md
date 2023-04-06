@@ -12,3 +12,4 @@ Working in µPython (including my own port 🤓)
 
 [Assembly RNG to disk](./2023/04/2023-04-04.md)
 
+[Starting to DMA, bashing registers](./2023/04/2023-04-06.md)
