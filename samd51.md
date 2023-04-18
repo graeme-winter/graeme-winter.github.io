@@ -22,3 +22,5 @@ Working in µPython (including my own port 🤓)
 
 [Clocks for DMA](./2023/04/2023-04-17.md)
 
+[Clocks to GPIO](./2023/04/2023-04-18.md)
+
