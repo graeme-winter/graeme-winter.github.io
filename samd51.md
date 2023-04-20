@@ -24,3 +24,5 @@ Working in µPython (including my own port 🤓)
 
 [Clocks to GPIO](./2023/04/2023-04-18.md)
 
+[Extending MicroPython in assembly](./2023/04/2023-04-20.md)
+
