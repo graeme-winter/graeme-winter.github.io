@@ -26,3 +26,4 @@ Working in µPython (including my own port 🤓)
 
 [Extending MicroPython in assembly](./2023/04/2023-04-20.md)
 
+[Timing IRQ (Python)](./2023/04/2023-04-24.md)
