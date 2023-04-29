@@ -17,14 +17,100 @@ Nonsense that I've recently been doing, some of which _could_ be useful to other
 
 [2022 09 04 Real time / DMA etc.](./2022-09-04-RT)
 
-## 2023 - rp2040
+## 2023 - exploring the RP2040
 
-[In here](./rp2040.md)
+Collection of posts investigating the rp2040 microcontroller (via the Raspberry Pi Pico development board) in C and micropython...
+
+[2023 01 01 IRQ timing 1/2](./2023/01/2023-01-01.md)
+
+[2023 01 02 IRQ timing 2/2](./2023/01/2023-01-02.md)
+
+[2023 01 03 Real-time in µPython day 1](./2023/01/2023-01-03.md)
+
+[2023 01 04 Real-time in µPython day 2](./2023/01/2023-01-04.md)
+
+[2023 01 05 Real-time in µPython day 3](./2023/01/2023-01-05.md)
+
+[2023 01 06 µPython register bashing](./2023/01/2023-01-06.md)
+
+[2023 01 07 µPython register bashing and memory reads](./2023/01/2023-01-07.md)
+
+[2023 01 08 µPython DMA and ADC](./2023/01/2023-01-08.md)
+
+[2023 01 09 low level PWM](./2023/01/2023-01-09.md)
+
+[2023 01 10 low level PWM day 2](./2023/01/2023-01-10.md)
+
+[2023 01 11 drive DAC from PIO](./2023/01/2023-01-11.md)
+
+[2023 01 12 read virtual DAC from PIO](./2023/01/2023-01-12.md)
+
+[2023 01 13 basic UART](./2023/01/2023-01-13.md)
+
+[2023 01 14 more UART](./2023/01/2023-01-14.md)
+
+[2023 01 15 applied DMA and ADC pacing](./2023/01/2023-01-15-a.md)
+
+[2023 01 26 DMA chaining for signal generator](./2023/01/2023-01-26.md)
+
+[2023 01 27 integration](./2023/01/2023-01-27.md)
+
+[2023 01 31 PWM DAC (analogue is hard)](./2023/01/2023-01-31.md)
+
+[2023 02 04 byte swapping](./2023/02/2023-02-04.md)
+
+[2023 02 05 fonts](./2023/02/2023-02-05.md)
+
+[2023 02 08 GPIO and assembly](./2023/02/2023-02-08.md)
+
+[2023 02 09 GPIO and assembly, PIO timer](./2023/02/2023-02-09.md)
+
+[2023 02 10 explore ADC some more](./2023/02/2023-02-10.md)
+
+[2023 02 12 assembly / data](./2023/02/2023-02-12.md)
+
+[2023 02 15 integer Mandelbrot set (part 1)](./2023/02/2023-02-15.md)
+
+[2023 02 28 bare metal assembly on rp2040](./2023/02/2023-02-28.md)
+
+[2023 04 28 overwrite IRQ handler in µPython](./2023/04/2023-04-28.md)
 
 ## 2023 - zynq7000
 
-[In here](./zynq7000.md)
+Working on a ZYBO z7-20 board... from the basic upwards.
 
-## 2023 - SAMD51
+[Getting started](./2023/03/2023-03-05.md)
 
-[In here](./samd51.md)
+## 2023 - SAMD51 (Adafruit M4 boards)
+
+Working in µPython (including my own port 🤓)
+
+[Checking the TRNG with much assembly](./2023/03/2023-03-27.md)
+
+[Leaning on the Assembly for Mandelbrot sets](./2023/04/2023-04-01.md) and [redux](./2023/04/2023-04-03-a.md)
+
+[Thumb2 imm12 compiler](./2023/04/2023-04-01-a.md)
+
+[Assembly toggling GPIO](./2023/04/2023-04-03.md)
+
+[Assembly RNG to disk](./2023/04/2023-04-04.md)
+
+[Starting to DMA, bashing registers](./2023/04/2023-04-06.md)
+
+[DMA register bash to flicker LED](./2023/04/2023-04-07.md)
+
+[Clocks, investigation of](./2023/04/2023-04-15.md)
+
+[Clocks, continued](./2023/04/2023-04-16.md)
+
+[Clocks for DMA](./2023/04/2023-04-17.md)
+
+[Clocks to GPIO](./2023/04/2023-04-18.md)
+
+[Extending MicroPython in assembly](./2023/04/2023-04-20.md)
+
+[Timing IRQ (Python)](./2023/04/2023-04-24.md)
+
+[Timing IRQ (C, with on-the-road tyre change)](./2023/04/2023-04-26.md)
+
+[As above, looking at clocking domains](./2023/04/2023-04-29.md)
