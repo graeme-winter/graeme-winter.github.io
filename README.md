@@ -114,3 +114,6 @@ Working in µPython (including my own port 🤓)
 [Timing IRQ (C, with on-the-road tyre change)](./2023/04/2023-04-26.md)
 
 [As above, looking at clocking domains](./2023/04/2023-04-29.md)
+
+[Spot finding on MCU](./2023/05/2023-05-07.md)
+
