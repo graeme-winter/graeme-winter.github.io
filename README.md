@@ -117,3 +117,4 @@ Working in µPython (including my own port 🤓)
 
 [Spot finding on MCU](./2023/05/2023-05-07.md)
 
+[Spot finding on MCU including connected components](./2023/05/2023-05-20.md)
