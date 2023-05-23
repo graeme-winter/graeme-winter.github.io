@@ -75,6 +75,8 @@ Collection of posts investigating the rp2040 microcontroller (via the Raspberry 
 
 [2023 04 28 overwrite IRQ handler in µPython](./2023/04/2023-04-28.md)
 
+[2023 05 23 clock comparison](./2023/05/2023-05-23.md)
+
 ## 2023 - zynq7000
 
 Working on a ZYBO z7-20 board... from the basic upwards.
