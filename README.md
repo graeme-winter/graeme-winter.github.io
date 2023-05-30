@@ -124,3 +124,6 @@ Working in µPython (including my own port 🤓)
 [Hacking CircuitPython](./2023/05/2023-05-26.md)
 
 [CircuitPython with uctypes](./2023/05/2023-05-28.md)
+
+[Python CMSIS](./2023/05/2023-05-31.md)
+
