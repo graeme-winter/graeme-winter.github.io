@@ -127,3 +127,5 @@ Working in µPython (including my own port 🤓)
 
 [Python CMSIS](./2023/05/2023-05-31.md)
 
+[CircuitPython / MicroSD / Mandelbrot](./2023/06/2023-06-04.md)
+
