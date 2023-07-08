@@ -132,3 +132,5 @@ Working in µPython (including my own port 🤓)
 # BCM2835 (π)
 
 [Clocks](./2023/07/2023-07-04.md)
+
+[Bare Metal](./2023/07/2023-07-08.md)
