@@ -77,6 +77,8 @@ Collection of posts investigating the rp2040 microcontroller (via the Raspberry 
 
 [2023 05 23 clock comparison](./2023/05/2023-05-23.md)
 
+[2023 07 31 frequency counting](./2023/07/2023-07-31.md)
+
 ## 2023 - zynq7000
 
 Working on a ZYBO z7-20 board... from the basic upwards.
