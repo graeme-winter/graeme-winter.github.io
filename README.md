@@ -81,6 +81,8 @@ Collection of posts investigating the rp2040 microcontroller (via the Raspberry 
 
 [2023 08 08 PIO quadrature encoder](./2023/08/2023-08-08.md)
 
+[2023 08 12 PIO counting and DMA](./2023/08/2023-08-12.md)
+
 ## 2023 - zynq7000
 
 Working on a ZYBO z7-20 board... from the basic upwards.
