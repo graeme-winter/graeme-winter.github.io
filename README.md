@@ -85,6 +85,8 @@ Collection of posts investigating the rp2040 microcontroller (via the Raspberry 
 
 [2023 08 20 Times are hard](./2023/08/2023-08-20.md)
 
+[2023 08 25 PWM precision](./2023/08/2023-08-25.md)
+
 ## 2023 - zynq7000
 
 Working on a ZYBO z7-20 board... from the basic upwards.
