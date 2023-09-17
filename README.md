@@ -148,3 +148,5 @@ Working in µPython (including my own port 🤓)
 [Bare Metal](./2023/07/2023-07-08.md)
 
 [Hello, World!](./2023/07/2023-07-09.md)
+
+[Kernel modules](./2023/09/2023-09-17.md)
