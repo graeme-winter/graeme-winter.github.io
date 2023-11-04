@@ -141,6 +141,8 @@ Working in µPython (including my own port 🤓)
 
 [CircuitPython / MicroSD / Mandelbrot](./2023/06/2023-06-04.md)
 
+[CircuitPython / SAMD51 / FREQM](./2023/11/2023-11-04.md)
+
 # BCM2835 (π)
 
 [Clocks](./2023/07/2023-07-04.md)
