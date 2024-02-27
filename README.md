@@ -89,6 +89,10 @@ Collection of posts investigating the rp2040 microcontroller (via the Raspberry 
 
 [2023 08 30 Count Zero Interrupt](./2023/08/2023-08-30.md)
 
+## 2024 - exploring the RP2040 some more
+
+[2024 02 27 Debug PIO](./2024/02/2024-02-27.md)
+
 ## 2023 - zynq7000
 
 Working on a ZYBO z7-20 board... from the basic upwards.
