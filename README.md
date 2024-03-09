@@ -149,7 +149,7 @@ Working in µPython (including my own port 🤓)
 
 [CircuitPython / SAMD51 / FREQM](./2023/11/2023-11-04.md)
 
-# BCM2835 (π)
+## BCM2835 (π)
 
 [Clocks](./2023/07/2023-07-04.md)
 
@@ -158,3 +158,7 @@ Working in µPython (including my own port 🤓)
 [Hello, World!](./2023/07/2023-07-09.md)
 
 [Kernel modules](./2023/09/2023-09-17.md)
+
+## i.MX RT1060 / Teensy 4.1
+
+[Get started](./2024/03/2024-03-09.md)
