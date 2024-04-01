@@ -95,6 +95,10 @@ Collection of posts investigating the rp2040 microcontroller (via the Raspberry 
 
 [2024 03 05 Switching programs](./2024/03/2024-03-05.md)
 
+## 2024 - Zephyr
+
+[2024 04 01 Zephyr day 1 on micro:bit](./2024/04/2024-04-01.md)
+
 ## 2023 - zynq7000
 
 Working on a ZYBO z7-20 board... from the basic upwards.
