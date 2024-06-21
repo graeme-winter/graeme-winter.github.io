@@ -166,3 +166,7 @@ Working in µPython (including my own port 🤓)
 ## i.MX RT1060 / Teensy 4.1
 
 [Get started](./2024/03/2024-03-09.md)
+
+## CUDA / GPU
+
+[Spot finding 1/2](./2024/06/2024-06-21.md)
